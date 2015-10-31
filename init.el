@@ -1,4 +1,4 @@
-(require 'cask "~/.cask/cask.el")
+(require 'cask "~/.emacs.d/.cask/cask.el")
 (cask-initialize)
 (require 'pallet)
 (pallet-mode t)
