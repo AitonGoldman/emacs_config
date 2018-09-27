@@ -13,3 +13,6 @@
 (depends-on "pallet")
 (depends-on "smartparens")
 (depends-on "yasnippet")
+(depends-on "markdown-mode")
+(depends-on "jinja2-mode")
+(depends-on "typescript-mode")
